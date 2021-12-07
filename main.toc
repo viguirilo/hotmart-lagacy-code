@@ -1,6 +1,7 @@
 \babel@toc {brazil}{}
-\contentsline {chapter}{\numberline {1}A Magia da Internet}{5}{}%
-\contentsline {chapter}{\numberline {2}Protocolo HTTP}{7}{}%
-\contentsline {chapter}{\numberline {3}O Padrão SOAP}{9}{}%
-\contentsline {chapter}{\numberline {4}O Padrão REST}{11}{}%
-\contentsline {chapter}{\numberline {5}Um Exemplo Real}{13}{}%
+\contentsline {chapter}{\numberline {1}Como Funciona a Internet}{5}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Protocolo HTTP}{7}{chapter.2}%
+\contentsline {chapter}{\numberline {3}API -- Application Programming Interface}{9}{chapter.3}%
+\contentsline {chapter}{\numberline {4}O Padrão SOAP}{11}{chapter.4}%
+\contentsline {chapter}{\numberline {5}O Padrão REST}{13}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Hello World (Olá Mundo)}{15}{chapter.6}%

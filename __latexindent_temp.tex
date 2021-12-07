@@ -1,27 +1,16 @@
 \documentclass[a4paper,titlepage,twoside,openright]{report}
 \usepackage{graphicx} % para da cor
 \usepackage[brazil]{babel} % Para traduzir nomes que aparecem em inglês na estrutura do documento.
-\usepackage[utf8]{inputenc} % This package allows the user to specify an input encoding
 \usepackage[T1]{fontenc} % Permite que o LaTeX compreenda a acentuação feita direto pelo teclado. 
-\usepackage{amsfonts} % Define alguns estilos de letras para o ambiente matemático
-\usepackage{fancyhdr} % Para fazer cabeçalhos personalizados
-\usepackage{hyperref} % Para tornar os links clicáveis
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    filecolor=blue,
-    citecolor=blue,
-    urlcolor=blue,
-}
-\title{Causos sobre APIs baseadas em Spring Boot}
+\title{Mais Um Guia para APIs baseadas em Spring Boot}
 \author{Vitor G. R. Lopes}
 \begin{document}
     \maketitle
-    \tableofcontents
+    \tableofcontentsπ
     \include{NETWORKING/netwoeking.tex}
     \include{HTTP/http.tex}
     \include{API/api.tex}
     \include{SOAP/soap.tex}
     \include{REST/rest.tex}
-    \include{HELLO WORLD/hello world.tex}
+    \include{USER-DATA/user-data.tex}
 \end{document}

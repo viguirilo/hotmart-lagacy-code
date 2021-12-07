@@ -1,0 +1,6 @@
+\babel@toc {brazil}{}
+\contentsline {chapter}{\numberline {1}A Magia da Internet}{5}{}%
+\contentsline {chapter}{\numberline {2}Protocolo HTTP}{7}{}%
+\contentsline {chapter}{\numberline {3}O Padrão SOAP}{9}{}%
+\contentsline {chapter}{\numberline {4}O Padrão REST}{11}{}%
+\contentsline {chapter}{\numberline {5}Um Exemplo Real}{13}{}%

@@ -1,0 +1,6 @@
+PWD /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/02-HTTP
+INPUT /usr/local/texlive/2021/texmf.cnf
+INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/02-HTTP/http.tex
+OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/02-HTTP/http.log

@@ -446,30 +446,33 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.de
 INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.aux
 INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.aux
 INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.aux
 OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.aux
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -610,124 +613,138 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm1
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.toc
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.tex
-OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.tex
+OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.tex
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/ecrm2074.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/ecbx2074.tfm
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.tex
-OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.tex
+OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.tex
+OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.tex
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.tex
-OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.tex
-OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.tex
-OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.tex
-OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.tex
-OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.tex
-OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.tex
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.tex
+OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.tex
+OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.tex
+OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.tex
+OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.tex
+OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.tex
+OUTPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.tex
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.tex
 INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/networking.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.aux
-INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/intro/intro.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/networking/networking.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/http/http.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/client server/client server.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/database/database.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/api/api.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/soap/soap.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/rest/rest.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.aux
+INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/hello world/hello world.aux
 INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.out
 INPUT /Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.out
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc

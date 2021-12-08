@@ -1,7 +1,8 @@
 \babel@toc {brazil}{}
 \contentsline {chapter}{\numberline {1}Como Funciona a Internet}{5}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Protocolo HTTP}{7}{chapter.2}%
-\contentsline {chapter}{\numberline {3}API -- Application Programming Interface}{9}{chapter.3}%
-\contentsline {chapter}{\numberline {4}O Padrão SOAP}{11}{chapter.4}%
-\contentsline {chapter}{\numberline {5}O Padrão REST}{13}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Hello World (Olá Mundo)}{15}{chapter.6}%
+\contentsline {chapter}{\numberline {3}Aplicação Cliente Servidor}{9}{chapter.3}%
+\contentsline {chapter}{\numberline {4}API -- Application Programming Interface}{11}{chapter.4}%
+\contentsline {chapter}{\numberline {5}O Padrão SOAP}{13}{chapter.5}%
+\contentsline {chapter}{\numberline {6}O Padrão REST}{15}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Hello World (Olá Mundo)}{17}{chapter.7}%

@@ -1,5 +1,5 @@
 \babel@toc {brazil}{}
-\contentsline {chapter}{\numberline {1}Como Funciona a Internet}{5}{chapter.1}%
+\contentsline {chapter}{\numberline {1}A Internet}{5}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Hypertext Transfer Protocol -- HTTP}{7}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Os Verbos HTTP}{7}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Criar -- POST}{7}{subsection.2.1.1}%

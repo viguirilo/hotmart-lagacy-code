@@ -1,8 +1,24 @@
 \babel@toc {brazil}{}
 \contentsline {chapter}{\numberline {1}Como Funciona a Internet}{5}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Protocolo HTTP}{7}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Hypertext Transfer Protocol -- HTTP}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Os Verbos HTTP}{7}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Criar -- POST}{7}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Ler -- GET}{7}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Atualizar -- PUT}{7}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Atualizar -- PATCH}{7}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Deletar -- DELETE}{7}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}HEAD}{7}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}OPTIONS}{7}{subsection.2.1.7}%
 \contentsline {chapter}{\numberline {3}Aplicação Cliente Servidor}{9}{chapter.3}%
-\contentsline {chapter}{\numberline {4}API -- Application Programming Interface}{11}{chapter.4}%
-\contentsline {chapter}{\numberline {5}O Padrão SOAP}{13}{chapter.5}%
-\contentsline {chapter}{\numberline {6}O Padrão REST}{15}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Hello World (Olá Mundo)}{17}{chapter.7}%
+\contentsline {section}{\numberline {3.1}Códigos de status de respostas HTTP}{9}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Respostas de informação 1.x.x}{9}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Respostas de sucesso 2.x.x}{9}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Redirecionamentos 3.x.x}{9}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Erros do cliente 4.x.x}{9}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Erros do servidor 5.x.x}{9}{subsection.3.1.5}%
+\contentsline {chapter}{\numberline {4}Banco de Dados -- Um Lugar Sagrado}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Relacional ou Não Relacional -- Eis a Questão}{11}{section.4.1}%
+\contentsline {chapter}{\numberline {5}API -- Application Programming Interface}{13}{chapter.5}%
+\contentsline {chapter}{\numberline {6}O Padrão SOAP}{15}{chapter.6}%
+\contentsline {chapter}{\numberline {7}O Padrão REST}{17}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Nossa Primeira API Spring Boot}{19}{chapter.8}%

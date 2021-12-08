@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.5)  8 DEC 2021 09:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.5)  8 DEC 2021 10:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -193,7 +193,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 15.
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count266
 \l__pdf_internal_box=\box47
-) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.aux (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/netwoeking.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.aux))
+) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.aux (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/netwoeking.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -300,9 +300,9 @@ Cap\'{\i }tulo 2.
 ]
 Cap\'{\i }tulo 3.
 ) [9]
-\openout2 = `API/api.aux'.
+\openout2 = `DATABASE/database.aux'.
 
- (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.tex [10
+ (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.tex [10
 
 
 
@@ -310,9 +310,9 @@ Cap\'{\i }tulo 3.
 ]
 Cap\'{\i }tulo 4.
 ) [11]
-\openout2 = `SOAP/soap.aux'.
+\openout2 = `API/api.aux'.
 
- (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.tex [12
+ (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.tex [12
 
 
 
@@ -320,9 +320,9 @@ Cap\'{\i }tulo 4.
 ]
 Cap\'{\i }tulo 5.
 ) [13]
-\openout2 = `REST/rest.aux'.
+\openout2 = `SOAP/soap.aux'.
 
- (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.tex [14
+ (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.tex [14
 
 
 
@@ -330,32 +330,42 @@ Cap\'{\i }tulo 5.
 ]
 Cap\'{\i }tulo 6.
 ) [15]
-\openout2 = `"HELLO WORLD/hello world.aux"'.
+\openout2 = `REST/rest.aux'.
 
- (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.tex [16
+ (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.tex [16
 
 
 
 
 ]
 Cap\'{\i }tulo 7.
-) [17] (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.aux (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/netwoeking.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.aux))
+) [17]
+\openout2 = `"HELLO WORLD/hello world.aux"'.
+
+ (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.tex [18
+
+
+
+
+]
+Cap\'{\i }tulo 8.
+) [19] (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.aux (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/NETWORKING/netwoeking.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HTTP/http.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/CLIENT SERVER/client server.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/DATABASE/database.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/API/api.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/SOAP/soap.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/REST/rest.aux) (/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/HELLO WORLD/hello world.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1490C3AD3C3AD661A94EB3FA7B7494B8;1136.
+(rerunfilecheck)             Checksum: 1CBDC2EB6C91F99F972E4BCA0FAB9ABC;4038.
  ) 
 Here is how much of TeX's memory you used:
- 9168 strings out of 478994
- 138707 string characters out of 5858184
- 446267 words of memory out of 5000000
- 26433 multiletter control sequences out of 15000+600000
- 414242 words of font info for 53 fonts, out of 8000000 for 9000
+ 9230 strings out of 478994
+ 140123 string characters out of 5858184
+ 452612 words of memory out of 5000000
+ 26463 multiletter control sequences out of 15000+600000
+ 418260 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,6n,74p,367b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on "/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.pdf" (17 pages, 94934 bytes).
+ 71i,6n,74p,421b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on "/Volumes/GoogleDrive/Meu Drive/Engenharoa de Software/vade-mecum-backend/main.pdf" (19 pages, 146058 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 252 PDF objects out of 1000 (max. 8388607)
+ 220 compressed objects within 3 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 185 words of extra memory for PDF output out of 10000 (max. 10000000)
 

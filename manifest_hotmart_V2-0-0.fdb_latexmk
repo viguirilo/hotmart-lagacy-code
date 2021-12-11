@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1639259233 "/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.tex" "/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.pdf" "manifest_hotmart_V2-0-0" 1639259244
-  "/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.aux" 1639259236 2694 82201b9e7e911d57ba0e230c4fd8d1be ""
-  "/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.tex" 1639259244 6875 60386670c22c3fc774896bc006824b6a ""
+["pdflatex"] 1639259670 "/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.tex" "/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.pdf" "manifest_hotmart_V2-0-0" 1639259680
+  "/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.aux" 1639259673 2801 7e0a536d0812f69fe094f229f00e2e14 ""
+  "/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.tex" 1639259680 6897 908b89ce7e9a178905e8bd0ac2c84fbe ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/ecbx0900.tfm" 1136768653 3584 1a7de6c99457381c64abc1a7c545505f ""
@@ -106,13 +106,13 @@
   "images/05.png" 1639256973 1097952 49ec5bc3218ab95f2a85d62ee5fa340e ""
   "images/06.png" 1639257344 136539 711cf1c151d189effb9887f82a33b3b9 ""
   "images/07.png" 1639258338 44432 9eb37ce2f8f1b03fab2e543a64a2b62d ""
-  "manifest_hotmart_V2-0-0.aux" 1639259236 2694 82201b9e7e911d57ba0e230c4fd8d1be "pdflatex"
-  "manifest_hotmart_V2-0-0.out" 1639259236 585 978a1e73a901de6ebb4fa7a39867b96f "pdflatex"
-  "manifest_hotmart_V2-0-0.tex" 1639259244 6875 60386670c22c3fc774896bc006824b6a ""
+  "manifest_hotmart_V2-0-0.aux" 1639259673 2801 7e0a536d0812f69fe094f229f00e2e14 "pdflatex"
+  "manifest_hotmart_V2-0-0.out" 1639259673 676 0c1b2543c259879782d73ba63f9d549c "pdflatex"
+  "manifest_hotmart_V2-0-0.tex" 1639259680 6897 908b89ce7e9a178905e8bd0ac2c84fbe ""
   (generated)
-  "/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.log"
-  "/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.pdf"
-  "manifest_hotmart_V2-0-0.aux"
-  "manifest_hotmart_V2-0-0.log"
-  "manifest_hotmart_V2-0-0.out"
   "manifest_hotmart_V2-0-0.pdf"
+  "manifest_hotmart_V2-0-0.out"
+  "/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.log"
+  "manifest_hotmart_V2-0-0.aux"
+  "/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.pdf"
+  "manifest_hotmart_V2-0-0.log"

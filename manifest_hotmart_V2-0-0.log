@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.5)  11 DEC 2021 18:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.5)  12 DEC 2021 20:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.tex"
-(/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.tex
+**"/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.tex"
+(/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -216,7 +216,7 @@ File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count268
 \l__pdf_internal_box=\box49
-) (/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.aux)
+) (/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.aux)
 \openout1 = `manifest_hotmart_V2-0-0.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -275,7 +275,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 21.
 LaTeX Info: Redefining \pageref on input line 21.
 LaTeX Info: Redefining \nameref on input line 21.
- (/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.out) (/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.out)
+ (/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.out) (/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.out)
 \@outlinefile=\write3
 \openout3 = `manifest_hotmart_V2-0-0.out'.
 
@@ -304,78 +304,69 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-<images/01.png, id=24, 521.95pt x 318.18875pt>
-File: images/01.png Graphic file (type png)
-<use images/01.png>
-Package pdftex.def Info: images/01.png  used on input line 34.
-(pdftex.def)             Requested size: 313.17241pt x 190.9147pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1
+) [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<images/02.png, id=37, 531.9875pt x 318.18875pt>
+<images/01.png, id=53, 330.23375pt x 323.2075pt>
+File: images/01.png Graphic file (type png)
+<use images/01.png>
+Package pdftex.def Info: images/01.png  used on input line 51.
+(pdftex.def)             Requested size: 330.23293pt x 323.20671pt.
+<images/02.png, id=55, 561.09625pt x 216.81pt>
 File: images/02.png Graphic file (type png)
 <use images/02.png>
-Package pdftex.def Info: images/02.png  used on input line 43.
-(pdftex.def)             Requested size: 319.19496pt x 190.9147pt.
-<images/03.png, id=38, 530.98375pt x 317.185pt>
+Package pdftex.def Info: images/02.png  used on input line 62.
+(pdftex.def)             Requested size: 336.66034pt x 130.08699pt.
+ [2 </Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/images/01.png>]
+<images/03.png, id=65, 561.09625pt x 216.81pt>
 File: images/03.png Graphic file (type png)
 <use images/03.png>
-Package pdftex.def Info: images/03.png  used on input line 52.
-(pdftex.def)             Requested size: 318.5927pt x 190.31245pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2 </Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/images/01.png> </Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/images/02.png>]
-<images/04.png, id=47, 923.45pt x 874.26625pt>
+Package pdftex.def Info: images/03.png  used on input line 71.
+(pdftex.def)             Requested size: 336.66034pt x 130.08699pt.
+<images/04.png, id=66, 561.09625pt x 216.81pt>
 File: images/04.png Graphic file (type png)
 <use images/04.png>
-Package pdftex.def Info: images/04.png  used on input line 78.
-(pdftex.def)             Requested size: 341.67114pt x 323.47345pt.
- [3 </Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/images/03.png>]
-<images/05.png, id=54, 942.52126pt x 974.64125pt>
-File: images/05.png Graphic file (type png)
-<use images/05.png>
-Package pdftex.def Info: images/05.png  used on input line 84.
-(pdftex.def)             Requested size: 282.75856pt x 292.39462pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4 </Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/images/04.png>]
-<images/06.png, id=61, 659.46375pt x 632.3625pt>
+Package pdftex.def Info: images/04.png  used on input line 80.
+(pdftex.def)             Requested size: 336.66034pt x 130.08699pt.
+ [3 </Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/images/02.png> </Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/images/03.png> </Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/images/04.png>] [4] [5]
+<images/06.png, id=105, 1027.84pt x 767.86874pt>
 File: images/06.png Graphic file (type png)
 <use images/06.png>
-Package pdftex.def Info: images/06.png  used on input line 90.
-(pdftex.def)             Requested size: 263.78082pt x 252.94052pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5 </Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/images/05.png>]
-<images/07.png, id=68, 562.1pt x 67.25125pt>
+Package pdftex.def Info: images/06.png  used on input line 168.
+(pdftex.def)             Requested size: 339.18825pt x 253.39746pt.
+<images/05.jpg, id=106, 1027.84pt x 770.88pt>
+File: images/05.jpg Graphic file (type jpg)
+<use images/05.jpg>
+Package pdftex.def Info: images/05.jpg  used on input line 176.
+(pdftex.def)             Requested size: 339.18825pt x 254.39119pt.
+ [6 </Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/images/06.png (PNG copy)>]
+<images/07.png, id=112, 963.6pt x 542.025pt>
 File: images/07.png Graphic file (type png)
 <use images/07.png>
-Package pdftex.def Info: images/07.png  used on input line 96.
-(pdftex.def)             Requested size: 281.04932pt x 33.62553pt.
- [6 </Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/images/06.png> </Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/images/07.png>] [7] (/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.aux)
+Package pdftex.def Info: images/07.png  used on input line 184.
+(pdftex.def)             Requested size: 337.26506pt x 189.71158pt.
+<images/08.jpg, id=113, 604.2575pt x 752.8125pt>
+File: images/08.jpg Graphic file (type jpg)
+<use images/08.jpg>
+Package pdftex.def Info: images/08.jpg  used on input line 192.
+(pdftex.def)             Requested size: 332.34265pt x 414.04816pt.
+ [7 </Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/images/05.jpg> </Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/images/07.png>] [8 </Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/images/08.jpg>] [9] (/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.aux)
 Package rerunfilecheck Info: File `manifest_hotmart_V2-0-0.out' has not changed.
-(rerunfilecheck)             Checksum: 0C1B2543C259879782D73BA63F9D549C;676.
+(rerunfilecheck)             Checksum: C80AC3B5BCC4E504B4834688CCEDC29C;916.
  ) 
 Here is how much of TeX's memory you used:
- 10768 strings out of 478994
- 164628 string characters out of 5858184
- 506704 words of memory out of 5000000
- 28005 multiletter control sequences out of 15000+600000
- 416263 words of font info for 87 fonts, out of 8000000 for 9000
+ 10938 strings out of 478994
+ 166610 string characters out of 5858184
+ 510723 words of memory out of 5000000
+ 28052 multiletter control sequences out of 15000+600000
+ 425245 words of font info for 140 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,8n,74p,596b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "/Volumes/GoogleDrive/Meu Drive/Toerias/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.pdf" (7 pages, 2351221 bytes).
+ 71i,8n,74p,680b,433s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbi1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on "/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.pdf" (9 pages, 2669327 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
- 20 named destinations out of 1000 (max. 500000)
- 22604 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 209 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 43089 words of extra memory for PDF output out of 51595 (max. 10000000)
 

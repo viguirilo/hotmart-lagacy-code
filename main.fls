@@ -608,6 +608,11 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/ecrm0800.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT /usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/01.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/01.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/01.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/01.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/01.png
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/02.png
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/02.png
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/02.png
@@ -618,11 +623,6 @@ INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/03.png
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/03.png
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/03.png
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/03.png
-INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/04.png
-INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/04.png
-INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/04.png
-INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/04.png
-INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/04.png
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/02-changes/main.tex
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/02-changes/main.tex
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/02-changes/main.tex
@@ -636,6 +636,30 @@ INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/04-knowledge-officer/maim
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/04-knowledge-officer/maim.tex
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/04-knowledge-officer/maim.tex
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/04-knowledge-officer/maim.tex
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/05-hotmart 2.0/main.tex
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/05-hotmart 2.0/main.tex
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/05-hotmart 2.0/main.tex
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/05-hotmart 2.0/main.tex
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/04.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/04.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/04.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/04.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/04.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/05.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/05.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/05.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/05.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/05.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/06.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/06.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/06.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/06.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/06.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/07.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/07.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/07.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/07.png
+INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/images/07.png
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/main.aux
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/main.out
 INPUT /Users/vitor.lopes/Documents/hotmart_legacy_code/main.out

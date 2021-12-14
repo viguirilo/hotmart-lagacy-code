@@ -3,3 +3,4 @@
 \contentsline {section}{\numberline {2}Start-Up ou não, Eis a Questão}{3}{section.2}%
 \contentsline {section}{\numberline {3}O Monte Everest}{4}{section.3}%
 \contentsline {section}{\numberline {4}O Poder do Conhecimento}{4}{section.4}%
+\contentsline {section}{\numberline {5}Imagina Juntos}{6}{section.5}%

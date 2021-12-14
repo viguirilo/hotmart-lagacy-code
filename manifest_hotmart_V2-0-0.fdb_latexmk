@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1639352130 "/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.tex" "/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.pdf" "manifest_hotmart_V2-0-0" 1639352275
-  "/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.aux" 1639352133 2895 d678bfb50dc833b693e04fed77c14d90 ""
-  "/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.tex" 1639352274 17013 ba414433a838d562ecefc5ab175cf875 ""
+["pdflatex"] 1639442550 "/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.tex" "/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.pdf" "manifest_hotmart_V2-0-0" 1639442553
+  "/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.aux" 1639442552 2895 d678bfb50dc833b693e04fed77c14d90 ""
+  "/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.tex" 1639442549 17001 071f22312f1a75d2ec4dc83647cd65b3 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -126,13 +126,13 @@
   "images/06.png" 1639326421 527629 c15fa05f66680464cbcee6bdbc0bc1a2 ""
   "images/07.png" 1639326529 1595203 c7ce1c0ce29e177f28057f3ed2f10965 ""
   "images/08.jpg" 1639327495 105031 1f9f0c87ce8701a61e54319052adec38 ""
-  "manifest_hotmart_V2-0-0.aux" 1639352133 2895 d678bfb50dc833b693e04fed77c14d90 "pdflatex"
-  "manifest_hotmart_V2-0-0.out" 1639352133 916 c80ac3b5bcc4e504b4834688ccedc29c "pdflatex"
-  "manifest_hotmart_V2-0-0.tex" 1639352274 17013 ba414433a838d562ecefc5ab175cf875 ""
+  "manifest_hotmart_V2-0-0.aux" 1639442552 2895 d678bfb50dc833b693e04fed77c14d90 "pdflatex"
+  "manifest_hotmart_V2-0-0.out" 1639442552 916 c80ac3b5bcc4e504b4834688ccedc29c "pdflatex"
+  "manifest_hotmart_V2-0-0.tex" 1639442549 17001 071f22312f1a75d2ec4dc83647cd65b3 ""
   (generated)
   "manifest_hotmart_V2-0-0.pdf"
   "/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.log"
+  "/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.pdf"
+  "manifest_hotmart_V2-0-0.out"
   "manifest_hotmart_V2-0-0.aux"
   "manifest_hotmart_V2-0-0.log"
-  "manifest_hotmart_V2-0-0.out"
-  "/Volumes/GoogleDrive/Meu Drive/Pessoal/manifest_hotmart_V2-0-0/manifest_hotmart_V2-0-0.pdf"

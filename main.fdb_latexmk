@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1639446244 "/Users/vitor.lopes/Documents/hotmart_legacy_code/main.tex" "/Users/vitor.lopes/Documents/hotmart_legacy_code/main.pdf" "main" 1639446246
-  "/Users/vitor.lopes/Documents/hotmart_legacy_code/main.aux" 1639446246 2895 d678bfb50dc833b693e04fed77c14d90 ""
-  "/Users/vitor.lopes/Documents/hotmart_legacy_code/main.tex" 1639446244 3803 e4d2617e97c058c5f8862bedf039ed37 ""
+["pdflatex"] 1639446513 "/Users/vitor.lopes/Documents/hotmart_legacy_code/main.tex" "/Users/vitor.lopes/Documents/hotmart_legacy_code/main.pdf" "main" 1639446515
+  "/Users/vitor.lopes/Documents/hotmart_legacy_code/main.aux" 1639446515 2895 d678bfb50dc833b693e04fed77c14d90 ""
+  "/Users/vitor.lopes/Documents/hotmart_legacy_code/main.tex" 1639446513 1599 5b7ee7294ca9fd2b6406b430a5b1979b ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -131,13 +131,13 @@
   "images/06.png" 1639326421 527629 c15fa05f66680464cbcee6bdbc0bc1a2 ""
   "images/07.png" 1639326529 1595203 c7ce1c0ce29e177f28057f3ed2f10965 ""
   "images/08.jpg" 1639327495 105031 1f9f0c87ce8701a61e54319052adec38 ""
-  "main.aux" 1639446246 2895 d678bfb50dc833b693e04fed77c14d90 "pdflatex"
-  "main.out" 1639446246 916 c80ac3b5bcc4e504b4834688ccedc29c "pdflatex"
-  "main.tex" 1639446244 3803 e4d2617e97c058c5f8862bedf039ed37 ""
+  "main.aux" 1639446515 2895 d678bfb50dc833b693e04fed77c14d90 "pdflatex"
+  "main.out" 1639446515 916 c80ac3b5bcc4e504b4834688ccedc29c "pdflatex"
+  "main.tex" 1639446513 1599 5b7ee7294ca9fd2b6406b430a5b1979b ""
   (generated)
-  "main.aux"
-  "/Users/vitor.lopes/Documents/hotmart_legacy_code/main.log"
-  "/Users/vitor.lopes/Documents/hotmart_legacy_code/main.pdf"
-  "main.log"
   "main.pdf"
+  "/Users/vitor.lopes/Documents/hotmart_legacy_code/main.pdf"
   "main.out"
+  "main.log"
+  "/Users/vitor.lopes/Documents/hotmart_legacy_code/main.log"
+  "main.aux"

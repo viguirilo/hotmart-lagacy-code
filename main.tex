@@ -1,0 +1,35 @@
+\documentclass[a4paper]{article}
+\usepackage{graphicx} % para da cor
+\usepackage[brazil]{babel} % Para traduzir nomes que aparecem em inglês na estrutura do documento.
+\usepackage[utf8]{inputenc} % This package allows the user to specify an input encoding
+\usepackage[T1]{fontenc} % Permite que o LaTeX compreenda a acentuação feita direto pelo teclado. 
+\usepackage{amsfonts} % Define alguns estilos de letras para o ambiente matemático
+\usepackage{fancyhdr} % Para fazer cabeçalhos personalizados
+\usepackage{float}
+\usepackage{hyperref} % Para tornar os links clicáveis
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=blue,
+    citecolor=blue,
+    urlcolor=blue,
+}
+\usepackage{microtype} % evitando ligatures do tipo ff
+\DisableLigatures{encoding = *, family = * }
+\title{\textbf{Próximo Destino: Hotmart 2.0}}
+\author{Vitor Lopes \\ vitor.lopes@hotmart.com}
+\begin{document}
+\maketitle
+\begin{abstract}
+    A Hotmart é uma ótima empresa para se frequentar e se fazer amigos além de prover um excelente ambiente para integração e troca de conhecimento. Essas características são tão marcantes que estão presentes em seus pilares e mantras conforme descritos em seu código de conduta. Entretanto, no que diz respeito a processos e código legado, temos muito a que melhorar.
+    Este material tem como objetivo propor uma metodologia ágil e divertida para lidar com esses desafios.
+\end{abstract}
+
+\input{01-intro/main.tex}
+\input{02-changes/main.tex}
+\input{03-faith/main.tex}
+\input{04-knowledge-officer/maim.tex}
+\input{05-aioros/main.tex}
+
+
+\end{document}

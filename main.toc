@@ -5,4 +5,3 @@
 \contentsline {section}{\numberline {4}O Poder do Conhecimento}{4}{section.4}%
 \contentsline {section}{\numberline {5}Imagina Juntos}{6}{section.5}%
 \contentsline {section}{\numberline {6}Metodologia para Reconstrução de Processos}{8}{section.6}%
-\contentsline {section}{\numberline {7}Conclusão}{12}{section.7}%
